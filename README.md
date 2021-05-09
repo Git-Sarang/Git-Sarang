@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/Git-Sarang/Git-Sarang/main/Developer.gif)
 ### Hi there 👋
 
 <!--
