@@ -1,5 +1,5 @@
-![Text My](https://github.com/Git-Sarang/Git-Sarang/blob/main/Templates/Developer.gif)
-### Hi there 👋
+   ![Text My](https://github.com/Git-Sarang/Git-Sarang/blob/main/Templates/Developer.gif)
+   ### Hi there 👋
 
 <!--
 **Git-Sarang/Git-Sarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
