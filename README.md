@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div align="center">
    <img src="https://github.com/Git-Sarang/Git-Sarang/blob/main/Templates/Developer.gif" />
    
 </div>
