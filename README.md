@@ -3,7 +3,10 @@
    
 </div>
    
-
+<div id="tags" align="center">
+<a href="https://www.linkedin.com/in/sarang-rawat-a4aa30231"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:sarangrawat05@gmail.com?subject=Hi%20Sarang"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</div>
 <!--
 **Git-Sarang/Git-Sarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
